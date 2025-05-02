@@ -1,7 +1,7 @@
 # For-u
 <HTML>
 <HEAD>
-<TITLE> Бұл паракта қарапайым кестенің мысалы көрсетіледі </TITLE>
+
 </HEAD>
 <BODY>
   <img src="https://img.freepik.com/free-psd/glossy-red-heart-symbol-3d-render-shiny-heart_191095-78483.jpg?t=st=1746164838~exp=1746168438~hmac=ec05cb8a00768df4489b0c531951bc55dcf0eb640cdf637d901e25f9610efd8f&w=740" 
